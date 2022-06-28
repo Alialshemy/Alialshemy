@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Alialshemy 
-- 👀 I’m interested in Linux & Devops 
-- 🌱 I’m currently learning  Devops
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Ali mohamed</h1>
+<h3 align="center">devops and linux engineer</h3>
 
-<!---
-Alialshemy/Alialshemy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ali mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali mohamed" height="30" width="40" /></a>
+<a href="https://fb.com/ali mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali mohamed" height="30" width="40" /></a>
+</p>
