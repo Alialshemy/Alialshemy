@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/github/followers/Alialshemy?label=Follow&style=social)](https://github.com/Alialshemy)
 
 <div align=center>
-        <img src="https://github.com/Alialshemy/Alialshemy/blob/main/images/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://github.com/Alialshesmy/Alialshemy/blob/main/images/ali.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alialshemy" alt="Alialshemy" /></a> </p>
